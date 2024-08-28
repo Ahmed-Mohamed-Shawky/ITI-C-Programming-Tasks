@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698609243 source:d:\iti\c programing\codeblocks projects\day 6 tasks\multiline editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1724861590 source:e:\work for git-hub\programming\codeblocks projects\day 6 tasks\multiline editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+

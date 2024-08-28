@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1724858697 source:e:\work for git-hub\programming\codeblocks projects\day 6 tasks\employee app\line_editor.c
+	"Line_Editor.h"
+
+1724859681 e:\work for git-hub\programming\codeblocks projects\day 6 tasks\employee app\line_editor.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1724853428 source:e:\work for git-hub\programming\codeblocks projects\day 6 tasks\employee app\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Line_Editor.h"
+
