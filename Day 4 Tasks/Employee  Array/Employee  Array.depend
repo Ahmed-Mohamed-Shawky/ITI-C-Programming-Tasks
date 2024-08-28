@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698152639 source:d:\iti\c programing\codeblocks projects\day 4 tasks\employee  array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
