@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698489086 source:d:\iti\c programing\codeblocks projects\day 5 tasks\line edietor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
