@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697624364 source:d:\iti\c programing\codeblocks projects\day 2 tasks\magic box 3x3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1697624364 source:e:\work for git-hub\programming\codeblocks projects\day 2 tasks\magic box 3x3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
